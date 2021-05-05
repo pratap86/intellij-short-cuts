@@ -23,3 +23,4 @@
 |`ctr+option+O`|to delete unused import|
 |`cmd + shift + F`|search a String literal|
 |`hit double shift`|Search Everywhere|
+|`alt+Enter`|place the caret at the class for which you want to create a test, <br>press Alt+Enter , and select Create Test|
