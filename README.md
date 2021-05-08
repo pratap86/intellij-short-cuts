@@ -26,3 +26,4 @@
 |`alt+Enter`|place the caret at the class for which you want to create a test, <br>press Alt+Enter , and select Create Test|
 |`shift+F6`|To rename a package/file|
 |`alt + insert`|generate|
+|`ctr + Y`|Delete a line|
