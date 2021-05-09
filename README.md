@@ -27,3 +27,12 @@
 |`shift+F6`|To rename a package/file|
 |`alt + insert`|generate|
 |`ctr + Y`|Delete a line|
+|`ctr + N`|Find a class|
+|`ctr + shift + N`|Find a File|
+|`ctr + shift + F12`|Toggle tools (maximize/minimize code window)|
+|`Alt + F7`|find usage|
+|`Alt+ Right/Left`|Go to next/previous editor tab|
+|`Ctrl+G`|Go to line number|
+|`Ctrl+Alt+B`|Go to implementation|
+|`Ctrl+Shift+I`|Open quick definition lookup|
+|``||
