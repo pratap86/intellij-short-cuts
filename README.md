@@ -36,3 +36,8 @@
 |`Ctrl+Alt+B`|Go to implementation|
 |`Ctrl+Shift+I`|Open quick definition lookup|
 |`ctrl + /`|comment or uncomment a line|
+|`alt + Enter`|To create test class for an existing java file|
+
+#### Enable Lombok Feature in IntelliJ
+- install Lombok plugin(Apply & restart the IntelliJ)
+- Enable Annotation Processor
