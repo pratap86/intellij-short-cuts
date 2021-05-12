@@ -35,4 +35,4 @@
 |`Ctrl+G`|Go to line number|
 |`Ctrl+Alt+B`|Go to implementation|
 |`Ctrl+Shift+I`|Open quick definition lookup|
-|``||
+|`ctrl + /`|comment or uncomment a line|
