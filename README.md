@@ -37,6 +37,7 @@
 |`Ctrl+Shift+I`|Open quick definition lookup|
 |`ctrl + /`|comment or uncomment a line|
 |`alt + Enter`|To create test class for an existing java file|
+|`ctrl+shift+U`|To toggel between lower/upper case|
 
 #### Enable Lombok Feature in IntelliJ
 - install Lombok plugin(Apply & restart the IntelliJ)
