@@ -19,7 +19,7 @@
 |`cmd+G or cmd+shift+G`|find selected word forword or backword|
 |`cmd+7`|open class structure|
 |`alt+ shift + up/down key`|move a line UP or Down|
-|`option+cmd+L`|code formatting|
+|`option+cmd+L` or `Ctrl+Alt+L`|code formatting|
 |`ctr+option+O`|to delete unused import|
 |`cmd + shift + F`|search a String literal|
 |`hit double shift`|Search Everywhere|
