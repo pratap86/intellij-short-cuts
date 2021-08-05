@@ -38,7 +38,13 @@
 |`ctrl + /`|comment or uncomment a line|
 |`alt + Enter`|To create test class for an existing java file|
 |`ctrl+shift+U`|To toggel between lower/upper case|
+|`ctrl+alt+s`|to open Settings|
 
 #### Enable Lombok Feature in IntelliJ
 - install Lombok plugin(Apply & restart the IntelliJ)
 - Enable Annotation Processor
+
+#### Disable wildcard imports to always import single classes
+- Settings -> select Editor | Code Style | Java | Imports
+- Make sure that the Use single class import option is enabled.
+- In the Class count to use import with '*' and Names count to use static import with '*'
